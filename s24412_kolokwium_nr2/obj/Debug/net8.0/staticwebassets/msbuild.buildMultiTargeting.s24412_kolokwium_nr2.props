@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\s24412_kolokwium_nr2.props" />
+</Project>
